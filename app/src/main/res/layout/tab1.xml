@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="420dp"
+        android:layout_height="420dp"
+        android:src="@drawable/bs2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_location_on_black_24dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="17sp"
+        android:text="Jl. Jend. Sudirman No No.32ef, Sekip Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30126
+        0812-1314-1500"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_location_on_black_24dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="17sp"
+        android:text="Jl.Alam Sutera Boulevard Kav.6 Kawasan Flavor Bliss No.7 (Serpong) -  1500581"
+        android:layout_marginTop="25dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_location_on_black_24dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="17sp"
+        android:text="Jl. C. Simanjuntak no 5, Gondokusuman, Yogyakarta"
+        android:layout_marginTop="25dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_location_on_black_24dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="17sp"
+        android:text="Jl. Titihan Bintaro No.Kav 1B, Parigi, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15227 "
+        android:layout_marginTop="25dp"/>
+
+
+</LinearLayout>
